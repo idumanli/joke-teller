@@ -66,9 +66,14 @@ button:disable {
 
 @media screen and (max-width: 700px) {
 	button {
-		margin-bottom: 450px;
-		margin-right: 300px;
+		margin-top: 450px;
+		margin-right: 350px;
 	}
 }
 
+@media screen and (max-width:1500px) {
+	button {
+		margin-left: 300px;
+	}
+}
 
